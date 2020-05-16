@@ -8,8 +8,8 @@
 
 <a name="descripton"></a>
 ## Description
-This project is a part of Udacity DataScience Nano degree program . In this project we use CRISP DM methodology to analyse AirBnb Toronto data to come up answers
-to the following questions any traveller planning to visist Toronto might have.
+This project is a part of Udacity DataScience Nano degree program . In this project we use CRISP DM methodology to analyse AirBnb Toronto data, to come up with answers
+to the following questions that might help travellers planning to visit Toronto.
 When is it most economical to visit a place?
 Where do I stay, what all options do I have?
 What all amenities I should be expecting?
