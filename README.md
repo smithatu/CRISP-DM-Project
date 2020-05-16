@@ -24,7 +24,7 @@ In general, what are the factors having greatest impact on price?
 
 <a name="materials"></a>
 ## Materials
-1. **CRISP DM Notebook**: Notebook containing the full analysis using AirBnb Toronto data.
+1. **CRISP-DM_Project.ipynb Notebook**: Notebook containing the full analysis using AirBnb Toronto data.
 2. **map_toronto**: The interactive folium map.
 
 <a name="acknowledgement"></a>
@@ -34,8 +34,8 @@ In general, what are the factors having greatest impact on price?
            http://insideairbnb.com/
 
 <a name="details"></a>
-## Details
+## Additional Details
 
 1.Blog post : The blog post in Medium can be found  here
 
-2.
+2.To view the interactive map, please click here
