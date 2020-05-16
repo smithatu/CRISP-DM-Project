@@ -31,8 +31,7 @@ In general, what are the factors having greatest impact on price?
 ## Acknowledgements
 * [Udacity](https://www.udacity.com/) for providing such a wonderful project
 * The data used in this project is AirBnb Toronto Listings data, downloaded from
-           
-           (http://insideairbnb.com/get-the-data.html)
+           http://insideairbnb.com/
 
 <a name="details"></a>
 ## Details
