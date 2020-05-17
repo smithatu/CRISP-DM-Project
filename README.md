@@ -36,6 +36,6 @@ In general, what are the factors having greatest impact on price?
 <a name="details"></a>
 ## Additional Details
 
-1.Blog post : The blog post in Medium can be found  here
+1.Blog post : The blog post in Medium can be found  here https://medium.com/@smithathalur/is-toronto-on-your-bucket-list-this-year-f4f9f9c016d5
 
 2.To view the interactive map, please click the link below https://nbviewer.jupyter.org/github/smithatu/CRISP_DM_Project/blob/master/map_toronto.html
